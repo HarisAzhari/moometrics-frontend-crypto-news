@@ -50,7 +50,14 @@ const CHANNEL_LIST = [
   { id: '@ScottMelker', name: 'Scott Melker' },
   { id: '@CTOLARSSON', name: 'CTO LARSSON' },
   { id: '@Bankless', name: 'Bankless' },
-  { id: '@gemgemcrypto', name: 'GemGemCrypto' }
+  { id: '@@AnggaAndinata', name: 'Angga Andinata' },
+  { id: '@RepublikRupiahOfficial', name: 'Republik Rupiah' },
+  { id: '@AkademiCrypto', name: 'Akademi Crypto' },
+  { id: '@felicia.tjiasaka', name: 'Felicia Putri Tjiasaka' },
+  { id: '@Coinvestasi', name: '@Coinvestasi' },
+  { id: '@TimothyRonald', name: 'Timothy Ronald' },
+  { id: '@AndySenjaya', name: 'Andy Senjaya' },
+  { id: '@leon.hartono', name: 'The Overpost' },
 ];
 
 interface Analysis {
